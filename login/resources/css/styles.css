@@ -88,7 +88,7 @@ input[type=text], input[type=password] {
 }
 
 input[type=text]:hover, input[type=password]:hover {
-    background-color: rgba(50, 50, 50,0.4);
+    border-color: rgba(50, 50, 50,0.4);
 }
 /*button*/
 input[type=submit] {
