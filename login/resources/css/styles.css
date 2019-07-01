@@ -84,6 +84,7 @@ input[type=text], input[type=password] {
     border-width: 0 0 1px 0;
     padding: 12px;
     width: 95%;
+    background-color: #e3e3e3;
 }
 
 input[type=text]:hover, input[type=password]:hover {
