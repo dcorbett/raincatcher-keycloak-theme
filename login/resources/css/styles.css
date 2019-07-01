@@ -77,14 +77,14 @@ div#info-area p {
 }
 /*fields*/
 input[type=text], input[type=password] {
-    color: #ddd;
+    color: #444;
     font-size: 30px;
     margin-bottom: 20px;
     background: none;
     border-width: 0 0 1px 0;
     padding: 12px;
     width: 95%;
-    background-color: #e3e3e3;
+    background-color: #fff;
 }
 
 input[type=text]:hover, input[type=password]:hover {
