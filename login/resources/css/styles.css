@@ -10,7 +10,7 @@ body {
 
     color: #fff;
     font-family: sans-serif;
-    text-shadow: 0px 0px 10px #000;
+    text-shadow: 0px 0px 4px #000;
     margin: 0px;
 }
 
@@ -51,7 +51,6 @@ div#kc-form {
 }
 /* label change Username, Password text*/
 div#kc-form label {
-    color: rgba(255, 255, 255, 0.7) !important;
     display: block;
     font-size: 30px;
 }
@@ -149,7 +148,6 @@ div#kc-header-wrapper {
 }
 
 div#kc-registration {
-    color: rgba(255, 255, 255, 0.7) !important;
     font-size: 1.8em;
     margin-bottom: 20px;
     margin-top: 2em;
